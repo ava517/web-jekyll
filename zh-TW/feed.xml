@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://pdis.nat.gov.tw/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pdis.nat.gov.tw/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2021-12-08T01:03:22+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/feed.xml</id><author><name>PDIS</name></author><entry><title type="html">打造設計系統，提升政府網站使用者體驗</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E6%89%93%E9%80%A0%E8%A8%AD%E8%A8%88%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E6%94%BF%E5%BA%9C%E7%B6%B2%E7%AB%99%E4%BD%BF%E7%94%A8%E8%80%85%E9%AB%94%E9%A9%97/" rel="alternate" type="text/html" title="打造設計系統，提升政府網站使用者體驗" /><published>2021-12-07T00:00:00+00:00</published><updated>2021-12-07T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E6%89%93%E9%80%A0%E8%A8%AD%E8%A8%88%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E6%94%BF%E5%BA%9C%E7%B6%B2%E7%AB%99%E4%BD%BF%E7%94%A8%E8%80%85%E9%AB%94%E9%A9%97</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E6%89%93%E9%80%A0%E8%A8%AD%E8%A8%88%E7%B3%BB%E7%B5%B1-%E6%8F%90%E5%8D%87%E6%94%BF%E5%BA%9C%E7%B6%B2%E7%AB%99%E4%BD%BF%E7%94%A8%E8%80%85%E9%AB%94%E9%A9%97/">&lt;p&gt;過去使用繳稅系統等政府數位服務時，是否曾經遭遇過「難用到爆炸」、「華麗到讓人迷惘」等體驗？「手機版網站怎麼這麼難用」、「怎麼又空白畫面」，是不是多少有聽過這些抱怨？&lt;/p&gt;
+
+&lt;p&gt;在行政院工作前，我也時常遇到政府網站體驗不佳、易用性低等問題，比如手機支援度不良、資訊架構邏輯性低、找不到功能、不符合通用設計，亦或是介面上字體、排版、配色等，無法滿足各種與日漸增的民眾需求，也影響著人民與政府之間的互信。&lt;/p&gt;
+
+&lt;p&gt;近年來，為了提供更一致、順暢的使用者體驗，許多政府及企業紛紛開始制定自己的網站設計系統（Design System）。何謂設計系統？它就如同網站規劃的規範書，不但定義原則（principle）與樣式（style），包含顏色、排版或間距；也提供可重複使用的元件（component），如下圖的 FlatUI 提供按鈕、輸入框、下拉式選單、導覽列、進度條等元件；有些也會規範到互動模式（pattern），在特定情境下提供最佳的解決方案，例如表單、錯誤頁面如何呈現等等。使用相同的介面架構，能夠讓不同網站有一致性的風格與設計，而採用類似邏輯的資訊架構，更能有效降低使用者的學習成本，讓民眾能更容易的使用網站。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2021/12/03/20211203-045557_U20101_M730487_78ab.PNG?itok=ERFsxWE6&quot; alt=&quot;20211203-FlatUI 提供的元件。（截自 FlatUI）&quot; title=&quot;20211203-FlatUI 提供的元件。（截自 FlatUI）&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;英國 GDS 推出的&lt;a href=&quot;https://design-system.service.gov.uk/&quot;&gt;設計系統&lt;/a&gt;，就是一個很好的例子。點開首頁，馬上能感受到其強烈的風格，藍色與黑色作為主色系，並提供各種樣式、元件、模式的規範與範例，設計師與開發者只要符合這些條件，就能打造出具有「英國政府風格」的政府網站。這套設計系統廣泛應用到其他政府網站，包含&lt;a href=&quot;https://www.gov.uk/&quot;&gt;政府首頁&lt;/a&gt;、&lt;a href=&quot;https://data.gov.uk/&quot;&gt;開放資料平台&lt;/a&gt;、&lt;a href=&quot;https://coronavirus.data.gov.uk/&quot;&gt;疫情資訊&lt;/a&gt;等等，雖然各具網站功能差異，仍能呈現出整體的風格，不僅建立良好的品牌形象，使用者也更容易上手相同設計系統的網站。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2021/12/03/20211203-045557_U20101_M730489_f8ef.PNG?itok=VT2ldO52&quot; alt=&quot;20211203-英國政府設計系統。（截自英國 GDS 設計系統網站）&quot; title=&quot;20211203-英國政府設計系統。（截自英國 GDS 設計系統網站）&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://image.cache.storm.mg/styles/smg-800xauto-er/s3/media/image/2021/12/03/20211203-045557_U20101_M730488_5023.PNG?itok=r64p18ij&quot; alt=&quot;20211203-疫情資訊。（截自疫情資訊平台）&quot; title=&quot;20211203-疫情資訊。（截自疫情資訊平台）&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我們辦公室的 PDIS 團隊，延續之前 RAY 與青年學生共同檢視、改善政府網站數位服務的精神，從單點延伸至全面，現正與新一批的實習生共同合作，研發「政府網站設計系統」。我們希望融入更多屬於台灣的元素，並參考常見的 UI 框架，並且盤點出容易導致使用者困惑的問題。&lt;/p&gt;
+
+&lt;p&gt;秉持「從自己辦公室做起」的精神，這套系統會先行與 PDIS 的網站進行整合，並與設計師、工程師持續調整精進，提供「便民、安心、省力」的數位服務。我們期待，未來的設計系統能提供範例，以及具體友善的建議，進一步改善政府網站的體驗。&lt;/p&gt;</content><author><name>唐鳳、周詳</name></author><category term="blog" /><category term="青年參與" /><summary type="html">提供範例以及具體友善的建議，進一步改善政府網站的體驗。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/pencil-3744152.jpg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/pencil-3744152.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">數位民主在臺灣</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E6%95%B8%E4%BD%8D%E6%B0%91%E4%B8%BB%E5%9C%A8%E8%87%BA%E7%81%A3/" rel="alternate" type="text/html" title="數位民主在臺灣" /><published>2021-12-01T00:00:00+00:00</published><updated>2021-12-01T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E6%95%B8%E4%BD%8D%E6%B0%91%E4%B8%BB%E5%9C%A8%E8%87%BA%E7%81%A3</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E6%95%B8%E4%BD%8D%E6%B0%91%E4%B8%BB%E5%9C%A8%E8%87%BA%E7%81%A3/">&lt;p&gt;疫情對全世界的民主國家進行了壓力測試，結果似乎差強人意。包括印太地區在內，許多民主國家的困境展露無遺：陷入威權模式，或苦求存在意義。這似乎並不令人意外，畢竟，對於「民主」這個可以上溯到古希臘的制度，世人並沒有投注太多心力，去讓它與時俱進。&lt;/p&gt;
+
+&lt;p&gt;相較之下，臺灣展示了如何運用公民參與，強化並深化印太地區的民主。要讓民主持續茁壯，我們必須先重新賦予人民權力，讓制度更適合我們所生活的世界。儘管常有人說印太地區的民主倒退，我們仍然有機會扭轉局勢，創造更加開放民主的區域。&lt;/p&gt;
+
+&lt;p&gt;臺灣的數位民主轉型在一個世代間完成。二戰後，臺灣從執政黨專權且相對單純的農業社會，轉型為以社會、文化及政治多元為特色的國家。我們在 1996 年舉行第一次總統直選，正是全球資訊網普遍化之際。在臺灣，網路與民主同步發展、擴散。&lt;/p&gt;
+
+&lt;p&gt;臺灣的民主振興，在 2014 年迎來決定性的一刻，也就是太陽花學運的誕生。50 萬人走上街頭，抗議與北京簽署不透明的兩岸服貿協議，而隨著學運浪潮蔓延全國，更有數百萬網友線上應援，民眾並佔領臺灣立法院，阻止議案進行。&lt;/p&gt;
+
+&lt;p&gt;初始數日，各種有關立院圍城內的謠言與錯誤訊息四起。為了確保開放透明，我協助建立溝通系統，許多來自 g0v 零時政府（去中心化的公民黑客團體）夥伴參與其中。被佔領的區域與鄰近的街道以區域網路連結，立院外架起投影螢幕，同步轉播院內實況。&lt;/p&gt;
+
+&lt;p&gt;大約三週後，在政府同意強化服貿協議的立法監督後，太陽花學運成功退場。這不僅向臺灣，也向全世界成功展示了一種新的治理模式，也就是公民集會，在專業引導員的協助，與公民科技的賦權下，可以導向有效的民主行動。今天，臺灣人民瞭解，民主就像任何社會科技一樣，在大眾共同努力的改進之下，得以更加豐富。&lt;/p&gt;
+
+&lt;p&gt;那麼政府要如何促成這樣的成果？答案是整合跨部門的能量成為政策創新的驅動力，並讓「與人民合作」的概念滲透到公共政策制定中。換句話說，就是將民主「群眾外包」（crowdsourcing）的內在力量釋放出來。政府不應再尋求由上而下制定政策、主導人民取得公共服務的途徑，而應建立以人民需求為導向，以「公民夥伴關係」（Public–Private–People partnerships）解決問題的生態系。&lt;/p&gt;
+
+&lt;p&gt;臺灣持續推動計畫鼓勵這樣的夥伴關係。已邁入第四年的「總統盃黑客松」邀請全世界的公民運用開放資料，針對全球議題提出有利創造永續世界的解決方案，例如節能、智慧公民及循環農業。獲勝團隊可望受邀參與政府計畫，所研發的系統也可能獲得來自公部門及∕或私部門的協助。&lt;/p&gt;
+
+&lt;p&gt;臺灣的另一項民主創新是「公共政策網路參與平台」（join.gov.tw），這是一站式的參與平台，臺灣的民眾都能在這裡提出政策建言。只要超過 5,000 人附議，就能透過每月兩次的跨部會協作會議，探討如何將提案納入政策，確保每一個人都能協助制定議程並參與政府的決策程序。事實上，超過四分之一的提案是由不到 18 歲的青年朋友所提出，比如說限用塑膠吸管的提案人，當時年僅 17 歲。&lt;/p&gt;
+
+&lt;p&gt;臺灣成功對抗 COVID-19 疫情，跨部門的夥伴關係也扮演了重要角色。2020 年初，臺灣口罩短缺，造成搶購，臺灣政府採取口罩實名制配額措施。然而，僅管採取配額措施，民眾不免仍需前往藥局採購，於是我們釋出應用程式介面（API），提供大眾特定位置的即時口罩存量。由社會企業家與 g0v 社群合作創造的口罩地圖應運而生，也就是各種互動式的地圖，告訴大眾哪裡還有口罩、數量又有多少。&lt;/p&gt;
+
+&lt;p&gt;同樣的，早期在出入公共場所時紀錄聯絡資料的各種實聯措施，也促成了「1922 簡訊實聯制」在最短時間內開發佈署。這種直覺式、免下載 APP 的設計來自 g0v，可以輕鬆完成實聯登記，同時兼顧隱私－任何人只要輸入電話號碼，就可以查到過去 28 天是否曾被疫調人員查詢。&lt;/p&gt;
+
+&lt;p&gt;臺灣從網路的早期開始，活躍的公民黑客與開源工程師就積極參與社會議題，時時準備推動民主，對抗威權。臺灣證明了透過信任人民與降低民主參與的門檻，可以創造出經得起時間考驗的創新。&lt;/p&gt;
+
+&lt;p&gt;我給印太地區的解方非常簡單：與其坐而言，不如起而設計讓更多人民參與的空間。&lt;/p&gt;
+
+&lt;p&gt;在面對超越疆界的挑戰時，來自不同領域的人民必須共同合作，逐步克服萬難。在我看來，臺灣的數位民主就像一朵太陽花，而每個貢獻者就是一片片花瓣，在臺灣綻放、卓然屹立，成為涵容且具韌性的印太願景。&lt;/p&gt;</content><author><name>唐鳳、馮瓊儀</name></author><category term="blog" /><category term="開放政府" /><category term="社會創新" /><summary type="html">集合眾人之力，打造堅韌涵容的印太地區。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/flower-field-gabaf6792c_1280.jpg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/flower-field-gabaf6792c_1280.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">群眾智造，共享創新</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E7%BE%A4%E7%9C%BE%E6%99%BA%E9%80%A0-%E5%85%B1%E4%BA%AB%E5%89%B5%E6%96%B0/" rel="alternate" type="text/html" title="群眾智造，共享創新" /><published>2021-11-26T00:00:00+00:00</published><updated>2021-11-26T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E7%BE%A4%E7%9C%BE%E6%99%BA%E9%80%A0-%E5%85%B1%E4%BA%AB%E5%89%B5%E6%96%B0</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E7%BE%A4%E7%9C%BE%E6%99%BA%E9%80%A0-%E5%85%B1%E4%BA%AB%E5%89%B5%E6%96%B0/">&lt;p&gt;在 2021 年秋天的 ⟪史丹佛社會創新評論⟫ 中，來自德國的 Johanna Mair &amp;amp; Thomas Gegenhuber 認為：在疫情帶來的嚴峻挑戰中，人類需要務實、彈性與規模化（pragmatic, flexible, and scalable) 的模式，來重振社會的基礎建設。兩位教授直指：「我們需要在透過數位科技形塑群體行動的基礎上，展開社會創新實驗。」&lt;/p&gt;
+
+&lt;p&gt;對於這段話，我深有同感。在臺灣，我們透過社會群眾與政府部門協力，齊聚各方意見和數位技術後，落實為具體的成果。例如簡訊實聯制、公費疫苗預約系統以及五倍券，都是在多方利益關係人協作下，誕生的社會創新。&lt;/p&gt;
+
+&lt;p&gt;正如英國經濟學家 Geoff Mulgan（周若剛）博士所說：在資訊科技的普及下，自由開放環境中的公民社會，充滿活力的公民所集結的資源與智慧，是翻轉未來的最佳機會。不論是創新創業的組織，或是使用手機掃描實聯制的群眾，都能貢獻己力、改變社會，這正是「集體智慧」（collective intelligence）的最佳例證。&lt;/p&gt;
+
+&lt;p&gt;因此，在「社會創新實驗中心」四周年慶，經濟部中小企業處將主題命名為「群眾智造」，凸顯群體行動的智慧集結，突破傳統部門的分工困境，並透過跨領域連結，為社會問題提出可實踐的解決方案。&lt;/p&gt;
+
+&lt;p&gt;以「群眾智造」之名，這次周年慶的初衷，是成為讓眾人都能暢所欲言、創意匯聚的樞紐。11/26 起為時三天，除了工作坊、實境解謎遊戲、音樂會等實體活動，更有亞太社會創新合作獎的經驗分享、臺灣社創團隊的 Demo 交流，以及政府推動企業責任消費的成效在內的講座，都會結合線上線下，在社創中心實體和線上空間交互進行。&lt;/p&gt;
+
+&lt;p&gt;此外，這次的社創市集及展覽，也首次打破時間和空間限制，全面移師 &lt;a href=&quot;https://gather.town/app/OpSG6nKGfIZ1MfCa/SDGS2021A&quot;&gt;Gather Town&lt;/a&gt; 舉行。從 11/26 開始，24 小時不間斷。我認為這個做法體現了「Reality is just another window」這句話，任何人隨時都可以進入 Gather Town 這個現實中逛攤位，也可以隨時切換到線下走進社創中心。每個人都可以設定自己的空間、創造獨一無二的現實，這也就是「共享實境」（Shared Reality）的核心概念。&lt;/p&gt;
+
+&lt;p&gt;如同 Mair &amp;amp; Gegenhuber 教授所言，透過數位科技形塑群體行動，促使社會創新邁向下個階段；社會創新實驗中心的週年慶，透過一系列活動跨越空間藩籬，打造成虛實整合的實踐場域，從臺灣社會創新組織的實體據點出發，成為世界社會創新在此匯聚交流的實驗場。11 月 26 日至 28 日「群眾智造」，歡迎你一起參與。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會創新" /><summary type="html">充滿活力的公民所集結的資源與智慧，是翻轉未來的最佳機會。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/2111010247169917575720.jpg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/2111010247169917575720.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">教育部青年署網站改版政策履歷</title><link href="https://pdis.nat.gov.tw/zh-TW/project/yda/" rel="alternate" type="text/html" title="教育部青年署網站改版政策履歷" /><published>2021-11-17T00:00:00+00:00</published><updated>2021-11-17T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/project/yda</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/project/yda/">&lt;h2 id=&quot;如果你也是-18-歲至-35-歲的青年&quot;&gt;如果你也是 18 歲至 35 歲的青年？&lt;/h2&gt;
+
+&lt;p&gt;「教育部青年發展署」（以下簡稱「青年署」）為強化大專生進入職場能力，每年提供「公部門見習計畫」，協助學生透過公部門見習，了解政府部門運作、組織文化及公共政策形成的過程，鼓勵青年透過實際參與，獲得第一手經驗，揭開進入公部門工作的神秘面紗，奠下未來參與公共事務的機會。&lt;/p&gt;
+
+&lt;h2 id=&quot;剛好行政院公共數位創新空間小組有個計畫&quot;&gt;剛好行政院「公共數位創新空間小組」有個計畫…&lt;/h2&gt;
+
+&lt;p&gt;「行政院公共數位創新空間小組」（Public Digital Innovation Space，PDIS）自 2017 年舉辦第一屆「青年學生體檢政府網站數位服務專案」（Rescue Action by Youth），計畫目標為檢測政府網站於 Safari 瀏覽器的相容性，而 RAY 的成員皆來自青年署公部門見習的青年夥伴，透過加入青年署計畫，於行政院公共數位創新空間小組進行為期兩個月的虛擬與實體的實習體驗。&lt;/p&gt;
+
+&lt;p&gt;自此開始，每年暑假陸續開辦 RAY2.0、3.0，至 2020 年 RAY 4.0 的網站改造，持續邀請 30 位來自不同大專院校之同學，包含服務設計、介面設計、視覺設計、資訊工程等多元背景人才，與國發會及相關部會協力合作，設計並開發網站的「原型」。&lt;/p&gt;
+
+&lt;h2 id=&quot;青年署想要改版網站於是&quot;&gt;青年署想要改版網站，於是…&lt;/h2&gt;
+
+&lt;p&gt;由於 2020 年 RAY 4.0 的其中一組同學，即是以青年署官網作為改善標的網站，並且在見習中完成網站原型。因此，在改版作業啟動之際，青年署即邀請 RAY 4.0 四位同學（黃采媛、翁暄奇、楊博智、羅宛庭）共同與廠商開發與設計，除使用已於 RAY 4.0 計畫中進行迭代過程而產出的「原型」，融入「使用者需求測試」的訪談結果，並與廠商進行來回多次的設計、溝通、測試，在歷經三個月的充分對話，青年署、RAY 4.0、廠商、PDIS 齊力完成新網站的改版。&lt;/p&gt;
+
+&lt;h2 id=&quot;政策履歷--透過互動方式讓會議的轉折過程都具體呈現&quot;&gt;政策履歷 – 透過互動方式，讓會議的轉折過程都具體呈現&lt;/h2&gt;
+
+&lt;p&gt;「政策履歷」記錄各方利益關係人之間，如何透過多樣化的合作共創，來改善與社會需求相對應的公共政策與服務。它不是靜態的記錄，而是隨時動態更新，透過共通的脈絡，來增進公眾參與和分散式決策。&lt;/p&gt;
+
+&lt;p&gt;PDIS 全程參與新網站的改版過程，將會議討論的重點、轉折決定的過程、分析使用的工具都記錄下來，如同農產品的產銷履歷，透過圖文並陳，並搭載互動的遊戲方式，形塑完整的政策履歷。藉由青年參與政府的運作、實踐採納青年的分析與意見，提升政府的數位服務，成功樹立協作案例，讓正面影響力持續發酵，成為政府與青年協力合作的經典典範。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pdis.tw/3mqBFVv&quot; target=&quot;_blank&quot;&gt;政策履歷&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pdis.tw/3mqBFVv&quot; target=&quot;_blank&quot;&gt;
+  &lt;img src=&quot;/assets/imgs/fda106398b47edc0f924927f44fbd4e5e9fef7e9.png&quot; class=&quot;responsive-image&quot; alt=&quot;cover&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;style&gt;
+  .responsive-image {
+    width: 100%;
+    height: auto;
+  }
+&lt;/style&gt;</content><author><name>薛雅婷、張芳睿、張庭瑜</name></author><category term="project" /><category term="青年參與" /><category term="社會創新" /><category term="開放政府" /><category term="公私協力" /><category term="使用者體驗" /><category term="跨域合作" /><summary type="html">想知道青年朋友如何以非政府的外部成員，與政府部會同仁、政府委外廠商在合約進行過程中，運用「以使用者為中心」的專業共同合作，將舊有網站重新拉皮、改版成全新的青年署官網嗎？讓我們一起了解整個合作過程的轉折與經歷！</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/8ad4c1fb383f98230de28753257d73e295c11bb7.jpeg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/8ad4c1fb383f98230de28753257d73e295c11bb7.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">開發「數位疫苗護照」平台</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E9%96%8B%E7%99%BC-%E6%95%B8%E4%BD%8D%E7%96%AB%E8%8B%97%E8%AD%B7%E7%85%A7-%E5%B9%B3%E5%8F%B0/" rel="alternate" type="text/html" title="開發「數位疫苗護照」平台" /><published>2021-11-11T00:00:00+00:00</published><updated>2021-11-11T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E9%96%8B%E7%99%BC%E3%80%8C%E6%95%B8%E4%BD%8D%E7%96%AB%E8%8B%97%E8%AD%B7%E7%85%A7%E3%80%8D%E5%B9%B3%E5%8F%B0</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E9%96%8B%E7%99%BC-%E6%95%B8%E4%BD%8D%E7%96%AB%E8%8B%97%E8%AD%B7%E7%85%A7-%E5%B9%B3%E5%8F%B0/">&lt;p&gt;戴口罩、消毒雙手、量體溫、實聯制、打疫苗，在全民積極的配合下，臺灣確診人數逐漸下降。隨著疫苗穩定到貨，「第一劑七成、第二劑三成」已順利在十月底達標。打完疫苗後，民眾開始關心：什麼時候各國能夠打開邊境，大家可以自由出國？&lt;/p&gt;
+
+&lt;p&gt;為了縮短入境隔離檢疫的時間，各國紛紛開始規劃「疫苗護照」，登載接種、檢驗或罹病後康復紀錄，也開啟了新的國際往來交流許可模式。年底即將上路的「健康資訊數位證明簽發平台」，正是為了建立具公信力接種證明平台，提供民眾出國使用。&lt;/p&gt;
+
+&lt;p&gt;由於「疫苗護照」尚無全球共同標準，各國入境的規定也不盡相同，平台雖已開發完成，目前還有最後一哩路，需要透過外交單位逐一進行雙邊洽談，取得各國認可。&lt;/p&gt;
+
+&lt;p&gt;為了省時、省力，盡可能與國際同步，臺灣首批簽發的數位證明，採用歐盟今年七月一日啟用的 EU DCC 標準，結合歐盟二十七國及非歐盟十六國使用，是目前國際最通行的標準。&lt;/p&gt;
+
+&lt;p&gt;和歐盟的做法相比，我國的平台有二點不同：&lt;/p&gt;
+
+&lt;p&gt;首先，歐盟通常是以接種端的醫院或公務機關，待民眾申請後，再逐一簽發數位證明。臺灣則是由疫情指揮中心，結合現有接種資料庫 NIIS 系統，將完成施打者的紀錄批次簽發 QR Code 憑證，待民眾申請即可取得，大大縮短等候時間。&lt;/p&gt;
+
+&lt;p&gt;此外，平台不需要安裝專屬 App，即可直接從網站下載數位證明，隨時出示或列印使用。驗證端也同步採用 PWA（漸進式網路應用程式）技術，不但相容於更多設備，更能節省開發及更新維護成本。&lt;/p&gt;
+
+&lt;p&gt;後疫情時代，全球跨境流動漸漸復甦。對於以國際商務貿易為重要經濟命脈、出國旅遊量能龐大的臺灣來說，持有「數位疫苗護照」，無疑是重新接軌國際的第一步。&lt;/p&gt;</content><author><name>唐鳳、彭美琪</name></author><category term="blog" /><category term="開放政府" /><summary type="html">不需要安裝專屬 App，即可直接從網站下載數位證明。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/airplane-6674689.jpg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/airplane-6674689.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">青年不畏疫情，展開線上協作</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/Rescue-Action-by-Youth-speaks-louder-than-words/" rel="alternate" type="text/html" title="青年不畏疫情，展開線上協作" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/Rescue%20Action%20by%20Youth%20speaks%20louder%20than%20words</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/Rescue-Action-by-Youth-speaks-louder-than-words/">&lt;p&gt;2021 年農曆七夕，臺灣的情人節晚上，有 4 位來自設計、研究、資訊背景的青年學子，沒有和情人約會，也沒有與朋友出遊，而是整晚待在線上，與林務局的莊技正熱烈討論，如何優化山林悠遊網的使用者體驗。&lt;/p&gt;
+
+&lt;p&gt;這個場景發生在青年「搶救」政府網站的 RAY（Rescue Action by Youth）專案的第五年 (RAY 5.0)，這個專案由 PDIS（Public Digital Innovation Space） – 一個由臺灣數位政委唐鳳領導的開放政府實驗團隊主導，從 130 位報名者中選出 14 位大專學生，成員包含設計、研究、資訊等等多元背景，以一個暑假的時間開發網站原型，重新改造很多人口中「難用」的政府數位服務。&lt;/p&gt;
+
+&lt;p&gt;5 月開始，臺灣面臨新一波疫情，不過，這些生在網路世代的同學，對於 google meet 與 miro 等數位工具的操作並不陌生，PDIS 也設計了一套線上破冰活動，讓原來素不相識的隊友，很快熟絡起來。雖然實體見面的時間減少，但同學們一起線上討論、深入訪談使用者，以設計思考的流程，分組重新設計政府服務的網站原型，每個月投入仍然超過 100 個小時。
+以負責重新設計臺北市公共托育報名系統的小組為例，他們訪談了許多新手爸媽，了解新手爸媽的需求及遇到的困難。受訪中，有位媽媽一手抱著小孩，只能一手忙碌的操作試用報名系統，同學們對這一幕印象深刻，當場下定決心：一定要做個單手也能簡單操作的手機版本。
+過去，公務員常常不確定如何設計一個如何讓民眾順暢使用的服務，這是因為公務員「不曉得如何找出使用者需求」；民眾雖然也常常「感覺」政府網站很難用，但這些「感覺」不知如何穿越官僚迷宮，讓意見進入政府服務的設計流程。RAY 藉由青年學生的參與，搭建公私部門的橋樑，創造一個機會讓雙方都能貢獻、學習。「同學們在訪談中，技巧地引導民眾，具體說出真正的困難及需求，我們才理解到，使用者真的和公務員想的不一樣，我們都已經太過熟悉這個服務，反而很難看見實際使用的盲點。」桃園市社會局的鄭姓的主辦同仁如是說，他們的志工招募平台系統也是 RAY 5.0 改造的對象。&lt;/p&gt;
+
+&lt;p&gt;這個過程也讓參與的青年學生領略到公共服務設計的挑戰：「Nothing is designed to be bad，與其一味地挑剔網站的缺點，可以進一步思考，公部門為什麼會有這些問題出現。」一位設計背景的楊姓同學說，透過與政府部門的協作，讓他和政府的公務員們，互相了解彼此的條件限制，不必空談理想，在實作中，一步一步討論出可能的解法。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/db940ae062d98d93188586d0176cbeb05757f688.jpeg&quot; alt=&quot;discussing with government officials&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/b0aad09cf532f687b91b19d2c3e8499d5bd8d9a3.jpeg&quot; alt=&quot;physical prototyping session&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;臺灣在 2019 年提出開放政府國家行動方案，其中一個項目，就是優化青年政策參與管道，達成青年賦權。PDIS 的 RAY 專案， 不斷思考如何創造更好的途徑，讓青年參與公共事務，不只是空談政策理念，而是能捲起袖子，動手參與公部門的運作，一點一滴改變政府服務。&lt;/p&gt;
+
+&lt;p&gt;PDIS 的挑戰是，如何讓短期見習、隨機組合的學生，能順暢融入政府的運作並發揮實際效用。2017 年——第一年的 RAY，PDIS 就發展出實體聚會與遠端線上混合的工作模式，上下班不需打卡，不佔用辦公空間，但絲毫不減合作的熱度——不管是學生之間還是與公務部門的互動，均超越了工作狀態，而同時擁有深刻的情感交流——RAY 的聚會永遠不缺豐盛的食物以及滿堂的笑聲。這種虛實混合、理性與感性並重的工作型態，當 Covid-19 來襲的時候，更證明了它的韌性。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/42abd100132483caa141158e8152478d7ad0261c.jpeg&quot; alt=&quot;physical gathering with laughter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/d86b9d26fdd6342a3cec409eed0ada602336803e.jpeg&quot; alt=&quot;online work session with fun&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;RAY 另一個重要的切入點，是協作處理公部門日常無暇顧及的工作。近幾年的 RAY，聚焦在導入「以使用者為中心」的服務設計，這是智慧政府創造公私互信與合作的起點，公務員深知這個道理，卻往往不知如何著手，加上公務繁忙，時常分身乏術。RAY 設計了一套以設計思考為靈感的見習流程，讓學生走到第一線，透過公務員陪同，訪談使用者需求、進行測試與微調，最終設計出的網站原型和相關內容，均供公務員參考及利用。換句話說，RAY 同學的工作，為公務員省力，而 RAY 同學的產出，更讓公務員安心。&lt;/p&gt;
+
+&lt;p&gt;開放政府是貫穿整個專案的核心理念。除了多方參與，從第一年開始，PDIS 就以文字和錄影，完整記錄整個工作狀況，而且以 CC 授權公開釋出在網路上，供公眾利用，目的在於鼓勵其他政府部門複製這套工作流程。支持這個計畫財務的青年發展署「大專生公部門見習計畫」，近年來就變得炙手可熱，許多機關紛紛爭取名額，PDIS 今年就因此而削減參與學生名額，提供其他機關使用。&lt;/p&gt;
+
+&lt;p&gt;8 月的最後一天，是 RAY 5.0 的成果發表會，PDIS 邀請了機關高階長官來參加，四組同學展示了他們兩個月來的深度研究及簡報成果，同時讓出席的數位政委唐鳳及機關長官，直接在電腦上操作他們產出的高擬真原型。林務局的林副局長很高興地說：「這就是我們想要的！」也交代承辦同仁，立刻開始採購程序，這些沒有什麼商業經驗的同學，都掩不住內心的興奮。&lt;/p&gt;
+
+&lt;p&gt;類似的場景，並不是第一次發生在 RAY，RAY 1.0 全面檢視政府網站．確保在不同瀏覽器使用者體驗相同；RAY 2.0 讓政府網站在手機上也能有相同的便利性，計畫結束不到半年，幾乎所有政府網站都不再發生類似問題。&lt;/p&gt;
+
+&lt;p&gt;到了 RAY3.0，開始從民眾需求出發選取特定網站或系統，改善其介面或服務流程，整合國家公園，自然保護區及山屋營地多種不同線上申請的「臺灣登山申請一站式服務網」(https://hike.taiwan.gov.tw/)，就是 RAY3.0 的代表作；今年初青年發展署更是體現 RAY 精神，直接與 RAY 4.0 青年團隊進行「2021 年青年署網站改版」合作，以 RAY 4.0 團隊的使用者體驗分析與報告，作為全網站設計改版的總目標（https://www.yda.gov.tw/），成功樹立部會、青年與廠商協力打造新網站的最佳典範。&lt;/p&gt;
+
+&lt;p&gt;也就是說，RAY 固然是一個實驗性的前導計畫，但對青年參與的想像，從來不是單純讓參與者單向體驗公務部門的工作，青年參與是否可以帶來真正的改變，是 PDIS 最在乎的事。唯有在每一次的協作時，都能在公務部門留下有用的成果，才會促使每一年都有熱血青年不斷投入，也才會有更多政府部門，張開雙手歡迎更多的青年參與。&lt;/p&gt;
+
+&lt;p&gt;RAY 能達成順暢的公私協作，關鍵在於不空談理念，直接從實作出發，切入公務部門最不熟悉的使用者需求探索，與公務員形成互補的角色，並且在最後能實際拿出高擬真原型，證明可行。換言之，RAY 不僅將民眾的使用者需求帶入公部門，也同樣將公務員視為使用者，即使是行政庶務，也同樣抱持著以使用者為中心的設計思考，設法在各方都能接受的環境下運作，而且以具體成果讓公部門能以最小負擔，接手下一步的工作。&lt;/p&gt;
+
+&lt;p&gt;RAY 發展出的合作模式，為政府機關導入青年參與，提供了具體參考案例，也讓多元利害關係人，能以實際協作找到在開放政府的立足點。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/2753ee3f62cbd8d28498d30fda4edc5749be5df1.jpeg&quot; alt=&quot;students cocreating with the government officials&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/5f33b2c397fac9d5e453ee68d99d70baf154dc23.jpeg&quot; alt=&quot;testing and prototyping&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;正如數位政委唐鳳說的：開放政府是讓政府從 for the people，轉變為 with the people，甚至走到 after the people，是一個政府轉型蛻變的過程。而當今建立政府民間夥伴關係 (Public-Private Partnership) 有幾個必須回答的問題，RAY 是個規模不大的前導計畫，但對於這些問題，已能提供具體回答。&lt;/p&gt;
+
+&lt;p&gt;首先，如何保持青年 / 公民參與的能動性？RAY 的經驗顯示，參與不需設定宏大的目標，但要能帶來真正的改變，個案累積的成果，就會成為持續參與的源頭活水。&lt;/p&gt;
+
+&lt;p&gt;其次，如何讓政府機關接受青年 / 公民參與？RAY 的經驗顯示，不要求公務員一夕改變工作型態，也儘量不增加公務機關額外的負擔，找政府機關想做卻不熟悉的領域來合作，提出問題也一起解決問題，逐漸形成互信互賴。&lt;/p&gt;
+
+&lt;p&gt;另外，如何在疫情期間維繫青年 / 公民參與？線上工具能克服多方參與空間與時間的限制，疫情也使人們有更大動力運用線上工具。但必須是有溫度的線上參與，使用者的感受不因為線上而被忽視，虛實環境的交互運用，能讓參與者更加融入，RAY 在 5 年前開啟的實驗工作模式，在疫情中證明了它的韌性，也期待成為後疫時代的新常態。&lt;/p&gt;
+
+&lt;p&gt;RAY 這個由內閣層級啟動的青年參與行動，最終的期待是可以在任何公部門和政府單位中複製、擴散。透過青年的加入，透過彼此的專業，了解各自的經驗與難處，翻轉公共服務「由政府提供給人民」的期待，轉換成「服務可以由人民與政府一同來創造」，進而共創出一個涵容的政府服務。聯合國永續發展目標第十七項是「建立多元夥伴關係，協力促進永續願景」，而 RAY 示範了一個建立夥伴關係的嶄新模式。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imgs/eec3152e932665884a5f3b2042f56b368b83dd28.jpeg&quot; alt=&quot;Young students devoting their summer revamping government digital services&quot; /&gt;&lt;/p&gt;</content><author><name>張皓婷</name></author><category term="blog" /><category term="開放政府" /><summary type="html">在暑假捲起袖子，與政府部門一起動手，共同改造大家口中「難用的政府數位服務」！</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/64559b6e5543f27e014322ed4fd37df6c98f27f3.jpeg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/64559b6e5543f27e014322ed4fd37df6c98f27f3.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">數位協作，民主創新</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E6%95%B8%E4%BD%8D%E5%8D%94%E4%BD%9C-%E6%B0%91%E4%B8%BB%E5%89%B5%E6%96%B0/" rel="alternate" type="text/html" title="數位協作，民主創新" /><published>2021-11-08T00:00:00+00:00</published><updated>2021-11-08T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E6%95%B8%E4%BD%8D%E5%8D%94%E4%BD%9C-%E6%B0%91%E4%B8%BB%E5%89%B5%E6%96%B0</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E6%95%B8%E4%BD%8D%E5%8D%94%E4%BD%9C-%E6%B0%91%E4%B8%BB%E5%89%B5%E6%96%B0/">&lt;p&gt;COVID-19 疫情對全球帶來深遠影響。疫情帶來的假訊息擴散、防疫管制措施，甚或是威權國家的監控爭議，不只導致廣泛的公眾焦慮，讓言論呈現嚴重的兩極分化，也使所有人開始重新審視傳統的政府治理和政策決策。時至今日，病毒帶來的防疫成本和社會問題，仍然處處考驗著各國政府的危機控管能力。&lt;/p&gt;
+
+&lt;p&gt;在臺灣，這場大流行疾病，反而加深了公私各部門之間協力合作，即使變種病毒層出不窮的現在，仍然可以在不封城的情況下，有效控制疫情風險。&lt;/p&gt;
+
+&lt;p&gt;這是因為我們長期打造數位基礎設施，讓人民在日常生活中，隨時能夠提出和表達對政策改革的意見。&lt;/p&gt;
+
+&lt;p&gt;「1922 簡訊實聯制」就是一個鮮明的例證。為了在保障隱私的情況下，讓疫調快速有效地確認確診者的足跡，臺灣的公民科技社群共同提出解法。在 g0v 臨時政府的 Slack 頻道上，所有人積極討論如何整合現行多用紙本或自製電子表單的實聯制，「簡訊實聯制」很快成為最多人認同的提案。&lt;/p&gt;
+
+&lt;p&gt;基於社群的討論，我們連同各大電信商等，開發出「1922 簡訊實聯制」，只要掃描該場所的 QRcode，送出簡訊給 1922，就可以留存自己的行程紀錄，讓疫調人員在必要時可以從系統調閱資料，精準比對確診者和接觸者的足跡。&lt;/p&gt;
+
+&lt;p&gt;從社群討論、開始開發到正式推出，1922 簡訊實聯制在一週之內完成，如果公共部門和公民社群之間沒有強有力的夥伴關係，這一切不可能如此順利。&lt;/p&gt;
+
+&lt;p&gt;臺灣政府和公民科技社群之間的連結，是銖寸累積的成果。自 2012 年成立以來，g0v 零時政府逐漸發展成為全球三大開源公民科技社群之一，2017 年開始，g0v 社群發起「g0v 公民科技創新獎助金」，獎助有潛力助於公共利益的社群提案，為新型態的民主投入更多生力軍。受到 g0v grant 啟發，2018 年臺灣政府開始舉辦「總統盃黑客松」，開放民間高手和公務人員一起組隊，以黑客文化重塑政府服務。&lt;/p&gt;
+
+&lt;p&gt;舉例來說，2019 年獲選為卓越團隊的「資料申請小幫手」，便是因為包括工程師、設計師和 NGO 倡議者的社群朋友，看到「政府開放資料平臺」(data.gov.tw) 中的資料缺乏過往使用經驗，民眾無法確認相關資料申請狀況。&lt;/p&gt;
+
+&lt;p&gt;透過總統盃黑客松，「資料申請小幫手」和管理政府開放資料平臺的國發會一起研究新做法，他們改從需求者角度發想，將回應流程標準化，讓申請者可以掌握過往申請情形，建構正向互動的資料申覆經驗。這個回應流程已經在 2020 年正式啟用。&lt;/p&gt;
+
+&lt;p&gt;另一個鼓舞人心的案例，則是 2020 年的卓越團隊「臺灣好植地」，有鑒於都市中閒置空地不少，三名景觀和地理專業工作者和學者，提出「與樹相融」的環境營造願景，經由總統盃黑客松媒合，他們和桃園市政府養護工程處一起運用衛星資料，了解樹木分佈概況並套疊用地資料，如果發現條件合宜的用地，就進一步評估種樹的機會。透過好植地專案平台，桃園市政府已於 2021 年 3 月和台灣積體電路製造公司合作，在桃園市平鎮運動公園植樹。&lt;/p&gt;
+
+&lt;p&gt;總統盃黑客松為公民黑客和公務人員提供了一個可以交流和齊心協作的平台，如果還不是工程師或公務員的年輕學子，也可以透過「青年學生體檢政府網站專案」貢獻己力。&lt;/p&gt;
+
+&lt;p&gt;自 2017 年以來，我的辦公室——行政院公共數位創新空間小組（PDIS) ，每年暑假召集青年學子一起改造政府的數位服務。前兩屆同學體檢行政院所屬的二、三級機關及業務網站，並提出程式碼改善解法；2019 年至 2021 年，同學們分組投入單一政府機關的網站改造，透過使用者訪談、易用性研究等 UI/UX 的完整流程，設計出全新的網站原型，供相關單位參考。&lt;/p&gt;
+
+&lt;p&gt;臺灣登山申請一站式服務網，就是見習成果的完美應用。2019 年 10 月，行政院宣布「向山致敬」政策，以簡政便民、資訊透明與風險共管為核心理念，宣示全面開放山林。RAY 第三屆其中一組同學設計的登山網站原型，便成為登山申請一站式服務網的改版基礎，見習同學也受邀參與改版。從「使用者需求」思維出發的全新網站，上線後旋即受到臺灣山友的廣泛好評。&lt;/p&gt;
+
+&lt;p&gt;2020 年，教育部青年署網站是第四屆見習同學的改版標的之一，而 2021 年教育部青年署正式啟動改版計畫時，除了採用同學見習時製作的改版原型，也邀請同學加入，直接提供使用者研究和設計建議。目前青年署的網站已經改版完畢，已於九月下旬上線，這個「青年事務，青年作主」的協作過程，我們也全程紀錄並公開在網路上，供公眾檢視和參考。&lt;/p&gt;
+
+&lt;p&gt;「民主」這個字拆解開來，是 dēmos「人民 (people)」和 kratos「統治 (rule)」，由人民來統治，這本就是民主的原意。「臺灣模式」向世界展示的是數位時代的古典民主價值：將政府決策過程對公眾透明，透過數位科技和協作工具輔助，可以促進公眾參與民主的能動性。這不只是一個國家的民主實驗，而是全世界未來共同的方向。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="開放政府" /><category term="社會創新" /><category term="青年參與" /><summary type="html">「臺灣模式」向世界展示數位時代的古典民主價值。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/acropolis-12044.jpg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/acropolis-12044.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">展望 2022：數位盟友，挺身而出</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E5%B1%95%E6%9C%9B-2022-%E6%95%B8%E4%BD%8D%E7%9B%9F%E5%8F%8B-%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA/" rel="alternate" type="text/html" title="展望 2022：數位盟友，挺身而出" /><published>2021-11-06T00:00:00+00:00</published><updated>2021-11-06T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E5%B1%95%E6%9C%9B-2022-%E6%95%B8%E4%BD%8D%E7%9B%9F%E5%8F%8B-%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E5%B1%95%E6%9C%9B-2022-%E6%95%B8%E4%BD%8D%E7%9B%9F%E5%8F%8B-%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA/">&lt;p&gt;2020 迄今肆虐全球的疫情，2022 年多半還會繼續。全球不分國界，都必須尋求有效的做法，來應對我們共同的挑戰。但縱使「國界」未能在實體世界裡提供必要的保護，令人惴惴不安，我們也將見證數位世界的種種契機，如爆炸般增長──尤其是形成「全球社群」的契機。&lt;/p&gt;
+
+&lt;p&gt;隨著傳統國家概念的消融，世界各地紛紛加速數位世界的進化。基於共同價值觀而形成的「社群」思維，如今日益茁壯。&lt;/p&gt;
+
+&lt;p&gt;這兩年，我們已經見證了類似的案例，像是「奶茶聯盟」（#MilkTeaAlliance）迷因，象徵著東亞各國支持民主的公民，舉起各自國家最有人氣的飲料（例如臺灣的珍珠奶茶），來表示團結。在 2022 年，我們將會見證全新世代的進化：距離再也不是以公里作為基準，而是以有多少共同經驗作為標竿。&lt;/p&gt;
+
+&lt;p&gt;全球社群，即將改變既有的國際體系。我們會發現自己身處新的世界：規則不再由國家與跨國組織所壟斷。去中心化、非政治、非國家型態的行動者，將扮演更關鍵的角色。&lt;/p&gt;
+
+&lt;p&gt;臺灣的數位民主制度，可以視為這個新世界的前導。在線上平台「join.gov.tw」，任何人都可以向全國發起提案，完全不需要政黨背書。只要有超過 5000 人連署的提案，我們每個月都會舉辦兩次面對面的跨部會協作會議，來探討如何將這些想法納入政府決策。用這樣的方式，就算是還沒有投票權的年輕人，也有辦法發起運動、制定全新的制度。&lt;/p&gt;
+
+&lt;p&gt;公民科技將更加普及，加速促進群眾共創的政策流程。由社會部門發起、公私協力實作的治理模式，將成為政府改造的關鍵。在臺灣，口罩地圖的製作，讓民眾得以在疫情初期得知那些店家還有口罩。以簡訊為主的接觸者追蹤、線上疫苗預約等系統，都是在社群、政府以及企業三者合作下，充份整合開放資料的成果。&lt;/p&gt;
+
+&lt;p&gt;網路上的「公眾基礎建設」將再次現身。在公民科技社群的協助下，社會裡渙散的民意，將轉化成共創政策的動力。由於社會、政治與經濟策略，都必須隨著突變的病毒而不斷調整，這股動力將顯得更加重要。政府、社會、經濟部門三者必須結盟，才能在最短的時間裡，滿足民眾瞬息萬變的需求。&lt;/p&gt;
+
+&lt;p&gt;2022 年，「省力安心」的技術持續茁壯，帶來更多大規模的協作。網路攻擊與假訊息仍然不斷威脅全球的民主政體，但臺灣將會持續分享我們的經驗，展現如何運用「快速、公平、有趣」的戰術，抗擊疫情與假訊息的危害。所見略同的盟友，也將會挺身而出，合力打造堅韌的全球社群。&lt;/p&gt;
+
+&lt;div style=&quot;position:relative;padding-top:max(60%,326px);height:0;width:100%&quot;&gt;&lt;iframe sandbox=&quot;allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-scripts allow-same-origin allow-popups allow-modals allow-popups-to-escape-sandbox&quot; allowfullscreen=&quot;true&quot; style=&quot;position:absolute;border:none;width:100%;height:100%;left:0;right:0;top:0;bottom:0;&quot; src=&quot;https://e.issuu.com/embed.html?d=ww2022&amp;amp;hideIssuuLogo=true&amp;amp;pageNumber=1&amp;amp;u=pdis.tw&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;</content><author><name>唐鳳、馮瓊儀</name></author><category term="blog" /><category term="開放政府" /><summary type="html">網路空間裡的眾多政府與公民，即將形成「全球社群」。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/FDZgAqpaMAEaisz.jpg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/FDZgAqpaMAEaisz.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">虛實整合，突破疫情限制</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E8%99%9B%E5%AF%A6%E6%95%B4%E5%90%88-%E7%AA%81%E7%A0%B4%E7%96%AB%E6%83%85%E9%99%90%E5%88%B6/" rel="alternate" type="text/html" title="虛實整合，突破疫情限制" /><published>2021-11-05T00:00:00+00:00</published><updated>2021-11-05T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E8%99%9B%E5%AF%A6%E6%95%B4%E5%90%88-%E7%AA%81%E7%A0%B4%E7%96%AB%E6%83%85%E9%99%90%E5%88%B6</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E8%99%9B%E5%AF%A6%E6%95%B4%E5%90%88-%E7%AA%81%E7%A0%B4%E7%96%AB%E6%83%85%E9%99%90%E5%88%B6/">&lt;p&gt;總統盃黑客松今年邁入第四屆，開跑之初就遇到疫情升溫。作為政府和公民的重要協作平台，團隊彈性應變、調整參賽方式：第一次工作坊採用全遠端，第二次工作坊則運用「共享實境（Shared Reality）」概念舉辦，不因疫情而中斷。&lt;/p&gt;
+
+&lt;p&gt;縱使現在疫情趨緩，但在我看來，這段虛實整合的體驗和成果，仍然值得大家參考。&lt;/p&gt;
+
+&lt;p&gt;第一、第二屆的總統盃黑客松工作坊，都是沿用傳統黑客松的流程，所有人聚集起來，在同一個實體地點分組發想和討論，評審則在固定時間聽取各組簡報、提供各組成員諮詢。2020 全球疫情爆發後，第三屆將每個團隊分別安排在獨立空間，與評審的簡報諮詢也改為視訊舉辦。&lt;/p&gt;
+
+&lt;p&gt;去年的經驗讓我們發現：全線上的做法，雖然可以有效降低接觸、確保防疫成效，卻難以點燃實體交流激盪出的火花。固定時間的參與和連線品質，所形成的限制並不下於實體場域；而傳統的全實體作法，不僅有防疫上的顧慮，更有諸如各桌聲音互相干擾、展示簡報時可能看不清楚等等物理限制。&lt;/p&gt;
+
+&lt;p&gt;有鑑於此，今年在「g0v 揪松團」協助下，我們採取混合模式，除了實體空間進行的簡報和討論，團隊也在線上平台 Gather Town 開設了黑客松專屬大廳，評審和團隊都有虛擬分身。團隊在實體討論時如果需要補充，或找不在此地的專家討論，可以隨時揪團上線；在虛擬空間中討論到一個階段、想要展示初步成果時，也可以隨時實體集結在一起。&lt;/p&gt;
+
+&lt;p&gt;如此一來，今年各個團隊的問題分析果然更具深度，不只「解釋問題」，例如哪些開放資料欠缺整合，更能「解決問題」，協力找出使用者參與資料治理的具體方案。&lt;/p&gt;
+
+&lt;p&gt;總統盃黑客松的主軸，是透過公民社群的投入，面對既有的難題，激盪出新的創意，最終成為增進公共服務效能的具體方案。在我看來，這次的總統盃黑客松，除了參賽團隊的斐然成果，協作過程本身更是為了虛實整合工作模式，提出了開創的示範。&lt;/p&gt;
+
+&lt;p&gt;我認為「共享實境」真正的精神，是讓每個人都可以超越物理和時間的限制，結合虛擬和實體，創造出適合彼此的空間。唯有如此，我們才能充份體驗共同在場的感受，進而共創未來，成為自主又能互相連結的「多元宇宙（Multiverse）」。&lt;/p&gt;</content><author><name>唐鳳、彭美琪、彭筱婷</name></author><category term="blog" /><category term="開放政府" /><category term="社會創新" /><summary type="html">「共享實境」真正的精神，是讓每個人都可以超越物理和時間的限制。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/20211105.jpg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/20211105.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ESG 永續與影響力投資</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/ESG-%E6%B0%B8%E7%BA%8C%E8%88%87%E5%BD%B1%E9%9F%BF%E5%8A%9B%E6%8A%95%E8%B3%87/" rel="alternate" type="text/html" title="ESG 永續與影響力投資" /><published>2021-10-29T00:00:00+00:00</published><updated>2021-10-29T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/ESG-%E6%B0%B8%E7%BA%8C%E8%88%87%E5%BD%B1%E9%9F%BF%E5%8A%9B%E6%8A%95%E8%B3%87</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/ESG-%E6%B0%B8%E7%BA%8C%E8%88%87%E5%BD%B1%E9%9F%BF%E5%8A%9B%E6%8A%95%E8%B3%87/">&lt;p&gt;&lt;a href=&quot;https://pdis.nat.gov.tw/zh-TW/blog/%E7%96%AB%E5%BE%8C%E6%8C%AF%E8%88%88-%E4%BA%BA%E4%BA%BA%E6%9C%89%E3%84%97%E3%84%9C%CB%8A/&quot;&gt;上一篇專欄中&lt;/a&gt;，我介紹了臺灣的五倍券。日前，紙本領取和數位綁定已突破 1700 萬人，在防疫措施逐漸鬆綁的現在，處處可見民眾在店裡消費的場景。在刺激消費的同時，如何將疫情帶來的動盪轉化為調整經濟體質的新動力，是我們持續投入的課題。根據臺灣的經驗，近年來快速成長的 ESG 投資和影響力投資，是結合產業創新和永續發展的解答之一。&lt;/p&gt;
+
+&lt;p&gt;ESG，意為將「環境」、「社會責任」和「公司治理」納入企業經營的評量標準，以確保企業經營對於社會和個人產生正面影響。十多年發展以來，ESG 已成為企業發展不可或缺的一部分。2020 年，臺灣金管會在過去的基礎上，相繼推動「公司治理 3.0- 永續發展藍圖」和「綠色金融行動方案 2.0」，分別從公司治理和金融投資的面向，提升臺灣產業永續發展。&lt;/p&gt;
+
+&lt;p&gt;「公司治理 3.0 - 永續發展藍圖」採取的措施包括，現行的企業社會責任報告書更名為「永續報告書 (Sustainability Report or ESG Report)，並推動全面英文化、強化第三方認證；2023 年開始，除了現有食品、化工、金融保險業及資本額超過 50 億元上市櫃公司外，資本額達 20 億元以上之上市櫃公司，均需撰寫永續報告書。&lt;/p&gt;
+
+&lt;p&gt;積極拓展綠色金融商品和服務發展的「綠色金融行動方案 2.0」，則是臺灣推動 ESG 的重要行動。2021 年 5 月，臺灣櫃買中心設立永續發展債券制度專板，臺灣首批社會責任債券也同時發行上櫃掛牌；10 月，財政部啟動 9 大公股金融事業 ESG 倡議平台，除了納入環境及社會績效以及 ESG 資訊揭露，全數公股銀行在 4 年內均將發行綠色 / 社會責任 / 可持續發展債券。&lt;/p&gt;
+
+&lt;p&gt;透過 ESG，越來越多臺灣企業成為永續發展的生力軍，然而，永續發展面臨的挑戰，日益劇增。從 Covid-19、氣候變遷、乃至於青年心理健康健康，世界面臨的重大風險囊括各式環境和社會層面。&lt;/p&gt;
+
+&lt;p&gt;今年適逢世界經濟論壇（World Economic Forum，WEF）第 51 周年，WEF 以「大重置（&lt;a href=&quot;https://www.weforum.org/great-reset/&quot;&gt;The Great Reset&lt;/a&gt;)」為題，揭示了集結利害關係人跨域合作的「利害關係人資本主義（Stakeholder Capitlism)」。令人振奮的是，透過臺灣公部門與各界利害關係人的共同努力，近年來快速成長的 ESG 概念，已成為結合產業及利害關係人的行動之一。&lt;/p&gt;
+
+&lt;p&gt;由臺灣民間發起的「&lt;a href=&quot;https://sert.tw/&quot;&gt;社會福祉及社會企業公益信託循環基金&lt;/a&gt;（Social Enterprise Revolving Trust，SERT 基金）」就是一例。SERT 基金是臺灣第一個投資社會企業的公益信託，致力於協助社會創業家取得創業所需資金，五年來，五年來，SERT 基金投資和贊助的總額已超過一千五百萬元，以股權投資投資了 5 間社會企業，更透過贊助、行動倡議、獎學金計畫等方式，支持了各類型的社會創新。&lt;/p&gt;
+
+&lt;p&gt;在這個過程中，SERT 基金觀察到，社會企業除了面對市場壓力，和投資人或股東之間，往往也會因為社會使命和公司營運的認知落差，造成額外的溝通成本。因此 SERT 在 2021 年，與策略夥伴 KPMG 安侯建業聯合會計師事務所，共同設計出「社會影響力特別股」（Social Impact Preferred Stock）。&lt;/p&gt;
+
+&lt;p&gt;社會影響力特別股的投資機制，目的是利用「特別股」可以協商投資條件的特性，讓投資人在投資前，和社會企業討論投資目標和追蹤指標、基金退場條件。此外，為了確保利害關係人的積極參與，更在公司章程鎖定其社會使命，並在董事會會議程中新增影響力議程 (Agenda)，確保追蹤社會使命的達成。&lt;/p&gt;
+
+&lt;p&gt;有一句話說，「如果你不是解方的一部分，那你就是問題的一部分」（If you are not a part of the solution, you are a part of the problem），臺灣透過 ESG 和影響力投資，深入世界所面臨的問題核心，為後疫情時代的生活，開闢兼顧永續和發展的新途徑。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會創新" /><summary type="html">為後疫情時代的生活，開闢兼顧永續和發展的新途徑。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/money-2696219_1280.jpg" /><media:content medium="image" url="https://pdis.nat.gov.tw/zh-TW/assets/imgs/money-2696219_1280.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
